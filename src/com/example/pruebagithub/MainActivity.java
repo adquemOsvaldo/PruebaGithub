@@ -17,6 +17,8 @@ public class MainActivity extends Activity {
 		// Inflate the menu; this adds items to the action bar if it is present.
 		getMenuInflater().inflate(R.menu.main, menu);
 		System.out.println("esta es una modificacion del proyecto nuevo");
+		System.out.println("esta es una  segunda modificacion del proyecto nuevo");
+		
 		return true;
 	}
 
